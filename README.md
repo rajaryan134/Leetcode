@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajaryan134/swayam-assignment/tree/master/0075-sort-colors) |
+| [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
 ## Matrix
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
