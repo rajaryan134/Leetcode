@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rajaryan134/swayam-assignment/tree/master/0141-linked-list-cycle) |
+| [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajaryan134/swayam-assignment/tree/master/3838-weighted-word-mapping) |
