@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajaryan134/swayam-assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajaryan134/swayam-assignment/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rajaryan134/swayam-assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rajaryan134/swayam-assignment/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0073-set-matrix-zeroes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -186,4 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
