@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajaryan134/swayam-assignment/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rajaryan134/swayam-assignment/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rajaryan134/swayam-assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -101,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rajaryan134/swayam-assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rajaryan134/swayam-assignment/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
