@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/rajaryan134/swayam-assignment/tree/master/0735-asteroid-collision) |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rajaryan134/swayam-assignment/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/rajaryan134/swayam-assignment/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/rajaryan134/swayam-assignment/tree/master/0735-asteroid-collision) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajaryan134/swayam-assignment/tree/master/3838-weighted-word-mapping) |
