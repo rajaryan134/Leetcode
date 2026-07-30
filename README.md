@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajaryan134/swayam-assignment/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajaryan134/swayam-assignment/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -236,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajaryan134/swayam-assignment/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
