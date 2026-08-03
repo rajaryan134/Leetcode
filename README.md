@@ -107,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rajaryan134/swayam-assignment/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/rajaryan134/swayam-assignment/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajaryan134/swayam-assignment/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/rajaryan134/swayam-assignment/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajaryan134/swayam-assignment/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/rajaryan134/swayam-assignment/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rajaryan134/swayam-assignment/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
