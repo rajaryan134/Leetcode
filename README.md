@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajaryan134/swayam-assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajaryan134/swayam-assignment/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajaryan134/swayam-assignment/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajaryan134/swayam-assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajaryan134/swayam-assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajaryan134/swayam-assignment/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -328,14 +332,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -365,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajaryan134/swayam-assignment/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
