@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajaryan134/swayam-assignment/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
