@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajaryan134/swayam-assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajaryan134/swayam-assignment/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajaryan134/swayam-assignment/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajaryan134/swayam-assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -355,16 +359,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajaryan134/swayam-assignment/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
