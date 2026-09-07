@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajaryan134/swayam-assignment/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajaryan134/swayam-assignment/tree/master/0020-valid-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajaryan134/swayam-assignment/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
