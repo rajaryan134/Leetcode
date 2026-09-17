@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rajaryan134/swayam-assignment/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajaryan134/swayam-assignment/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajaryan134/swayam-assignment/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rajaryan134/swayam-assignment/tree/master/1840-maximum-building-height) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajaryan134/swayam-assignment/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/rajaryan134/swayam-assignment/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rajaryan134/swayam-assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajaryan134/swayam-assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajaryan134/swayam-assignment/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/rajaryan134/swayam-assignment/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajaryan134/swayam-assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -317,12 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajaryan134/swayam-assignment/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajaryan134/swayam-assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rajaryan134/swayam-assignment/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajaryan134/swayam-assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rajaryan134/swayam-assignment/tree/master/0222-count-complete-tree-nodes) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rajaryan134/swayam-assignment/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
