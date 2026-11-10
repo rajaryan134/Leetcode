@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajaryan134/swayam-assignment/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajaryan134/swayam-assignment/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3693-climbing-stairs-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajaryan134/swayam-assignment/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajaryan134/swayam-assignment/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajaryan134/swayam-assignment/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rajaryan134/swayam-assignment/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajaryan134/swayam-assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3693-climbing-stairs-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajaryan134/swayam-assignment/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajaryan134/swayam-assignment/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
